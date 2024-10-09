@@ -37,3 +37,18 @@ console.log(`The price of the ${product} is ${price} ${currency}.`);
 const quantity = 5;
 const item = "apples";
 console.log("You" + " " + "have" + " " + quantity + " " + item);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
